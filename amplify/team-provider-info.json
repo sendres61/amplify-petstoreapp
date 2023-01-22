@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifypetstore-staging-152534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::161344279931:role/amplify-amplifypetstore-staging-152534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::161344279931:role/amplify-amplifypetstore-staging-152534-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifypetstore-staging-152534-deployment",
+      "UnauthRoleName": "amplify-amplifypetstore-staging-152534-unauthRole",
+      "StackName": "amplify-amplifypetstore-staging-152534",
+      "StackId": "arn:aws:cloudformation:us-east-1:161344279931:stack/amplify-amplifypetstore-staging-152534/33283e00-8d0d-11ed-9904-1291e9f9f3e9",
+      "AmplifyAppId": "d2yoc9572la9c9"
+    },
+    "categories": {
+      "auth": {
+        "amplifypetstore": {}
+      }
+    }
+  }
+}
